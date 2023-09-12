@@ -1,0 +1,6 @@
+Flask
+boto3==1.28.40
+pydantic~=2.3.0
+pynamodb~=5.5.0
+fastapi~=0.103.1
+SQLAlchemy~=2.0.20
